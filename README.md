@@ -8,7 +8,6 @@
 
 ### 🏢 Experience
 
-- Currently at ****
 - Based in **London, England**
 
 ### 🛠️ Tech Stack
