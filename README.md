@@ -13,7 +13,7 @@
 
 ```bash
 $ whoami
-yourname
+simonokolo
 
 $ cat status.txt
 studying   : Computer Science @ University of York
